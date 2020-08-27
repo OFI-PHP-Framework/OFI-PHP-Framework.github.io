@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## OFI PHP Framework official documentation
 
-You can use the [editor on GitHub](https://github.com/OFI-PHP-Framework/OFI-PHP-Framework.github-io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##### Bahasa Indonesia
+Kamu bisa mengunjungi github OFI PHP framework
+disini : https://github.com/teguh02/ofi-php-framework
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Apa itu OFI PHP Framework?
+1. OFI PHP Framework adalah sebuah framework PHP yang mengadaptasi dari framework laravel dan codeigniter.
+2. OFI PHP Framework adalah sebuah framework PHP yang di desain untuk kecepatan 
 
 ### Markdown
 
