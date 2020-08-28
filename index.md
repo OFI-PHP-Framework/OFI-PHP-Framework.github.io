@@ -9,8 +9,9 @@ Apa itu OFI PHP Framework?
 2. OFI PHP Framework adalah sebuah framework PHP yang di desain untuk kecepatan 
 
 Struktur folder
+<br>
 [![d6UTzJ.md.png](https://iili.io/d6UTzJ.md.png)](https://freeimage.host/i/d6UTzJ)
-
+<br>
 Penjelasan
 1. App merupakan folder yang memuat file file controller, model middleware dan lain lain
 2. assets merupakan folder yang memuat file css, js dan gambar 
