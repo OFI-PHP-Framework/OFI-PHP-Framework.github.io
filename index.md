@@ -114,12 +114,14 @@ define('senderName', 'OFI Framework Mailing System');
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OFI-PHP-Framework/OFI-PHP-Framework.github-io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Menjalankan pada development mode
+1. Pertama masuk kedalam direktori framework, contohnya pada gambar dibawah ini
+path nya adalah ``` C:\xampp_7.1\htdocs\OFI-PHP-FW ```
+<br>
+[![d6UTzJ.md.png](https://iili.io/d6UTzJ.md.png)](https://freeimage.host/i/d6UTzJ)
+</br>
+2. Kedua silahkan buka terminal atau cmd lalu masuk kedalam direktori sesuai path diatas selanjutnya ketik ```composer serve``` maka otomatis framework akan berjalan pada  http://localhost:9000/
+<br>
+[![d6U1bs.md.png](https://iili.io/d6U1bs.md.png)](https://freeimage.host/i/d6U1bs)
+</br>
+[![d6UGzG.md.png](https://iili.io/d6UGzG.md.png)](https://freeimage.host/i/d6UGzG)
