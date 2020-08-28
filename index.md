@@ -119,11 +119,15 @@ define('senderName', 'OFI Framework Mailing System');
 path nya adalah ``` C:\xampp_7.1\htdocs\OFI-PHP-FW ```
 <br>
 [![d6UTzJ.md.png](https://iili.io/d6UTzJ.md.png)](https://freeimage.host/i/d6UTzJ)
+
 <br>
 
 2. Kedua silahkan buka terminal atau cmd lalu masuk kedalam direktori sesuai path diatas selanjutnya ketik ```composer serve``` maka otomatis framework akan berjalan pada  http://localhost:9000/
 
 <br>
+
 [![d6U1bs.md.png](https://iili.io/d6U1bs.md.png)](https://freeimage.host/i/d6U1bs)
+
 <br>
+
 [![d6UGzG.md.png](https://iili.io/d6UGzG.md.png)](https://freeimage.host/i/d6UGzG)
