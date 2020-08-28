@@ -10,7 +10,9 @@ Apa itu OFI PHP Framework?
 
 ### Struktur folder
 <br>
+
 [![d6UTzJ.md.png](https://iili.io/d6UTzJ.md.png)](https://freeimage.host/i/d6UTzJ)
+
 <br>
 Penjelasan
 1. App merupakan folder yang memuat file file controller, model middleware dan lain lain
@@ -118,6 +120,7 @@ define('senderName', 'OFI Framework Mailing System');
 1. Pertama masuk kedalam direktori framework, contohnya pada gambar dibawah ini
 path nya adalah ``` C:\xampp_7.1\htdocs\OFI-PHP-FW ```
 <br>
+
 [![d6UTzJ.md.png](https://iili.io/d6UTzJ.md.png)](https://freeimage.host/i/d6UTzJ)
 
 <br>
