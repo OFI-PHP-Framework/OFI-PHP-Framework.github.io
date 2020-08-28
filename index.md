@@ -134,3 +134,9 @@ Kedua silahkan buka terminal atau cmd lalu masuk kedalam direktori sesuai path d
 <br>
 
 [![d6UGzG.md.png](https://iili.io/d6UGzG.md.png)](https://freeimage.host/i/d6UGzG)
+
+OFI PHP Framework telah di bekali tools untuk memudahkan debuging pada aplikasi, dengan tools ini developer menjadi semakin mudah untuk melihat semua data pada SESSION, Headers, maupun COOKIES. pada tools ini juga dibekali fitur memory usage dan request duration, yang dimana memory usage ini adalah seberapa besar memory yang digunakan oleh OFI PHP Framework ini sendiri dan request duration merupakan berapa lama framework ini diload. Silahkan teman teman lihat berapa memory usage dan request duration dari framework ini.
+
+<br>
+
+[![d66NGj.md.png](https://iili.io/d66NGj.md.png)](https://freeimage.host/i/d66NGj)
