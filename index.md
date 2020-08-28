@@ -117,7 +117,7 @@ define('senderName', 'OFI Framework Mailing System');
 ```
 
 ### Menjalankan pada development mode
-1. Pertama masuk kedalam direktori framework, contohnya pada gambar dibawah ini
+Pertama masuk kedalam direktori framework, contohnya pada gambar dibawah ini
 path nya adalah ``` C:\xampp_7.1\htdocs\OFI-PHP-FW ```
 <br><br>
 
@@ -125,7 +125,7 @@ path nya adalah ``` C:\xampp_7.1\htdocs\OFI-PHP-FW ```
 
 <br>
 
-2. Kedua silahkan buka terminal atau cmd lalu masuk kedalam direktori sesuai path diatas selanjutnya ketik ```composer serve``` maka otomatis framework akan berjalan pada  http://localhost:9000/
+Kedua silahkan buka terminal atau cmd lalu masuk kedalam direktori sesuai path diatas selanjutnya ketik ```composer serve``` maka otomatis framework akan berjalan pada  http://localhost:9000/
 
 <br>
 
