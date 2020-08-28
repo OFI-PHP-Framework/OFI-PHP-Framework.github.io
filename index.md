@@ -8,6 +8,23 @@ Apa itu OFI PHP Framework?
 1. OFI PHP Framework adalah sebuah framework PHP yang mengadaptasi dari framework laravel dan codeigniter.
 2. OFI PHP Framework adalah sebuah framework PHP yang di desain untuk kecepatan 
 
+Struktur folder
+[![d6UTzJ.md.png](https://iili.io/d6UTzJ.md.png)](https://freeimage.host/i/d6UTzJ)
+
+Penjelasan
+1. App merupakan folder yang memuat file file controller, model middleware dan lain lain
+2. assets merupakan folder yang memuat file css, js dan gambar 
+3. route merupakan folder yang memuat aturan route framework
+4. sql merupakan folder contoh sql yang siap import
+5. vendor merupakan folder vendor/system OFI PHP Framework
+6. Views merupakan folder yang memuat layout views (akan dibahas pada BAB views)
+7. .gitignore merupakan file github
+8. .htaccess merupakan file htaccess default Framework
+9. composer merupakan file konfigurasi milik composer sendiri
+10. config.php merupakan file yang berisi konfigurasi aplikasi
+11. index.php merupakan file utama supaya Framework ini berjalan
+12. readme.md merupakan file github
+
 ### Konfigurasi
 
 Supaya OFI PHP Framework berjalan dengan baik, kamu perlu mengkonfigurasikan file config.phpnya terlebih dahulu seperti ini contohnya.
